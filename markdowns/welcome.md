@@ -1,7 +1,8 @@
 # Welcome!
 
 This Swift template lets you get started quickly with a simple working example using Swift Package Manager and XCTest. If this is your first contribution, you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) guide.
- 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.dropbox.com/s/qs6u7yx71i4yub0/64fenetres_-_moyenne.mov?raw=0)
+
 
 The source code is on [GitHub](https://github.com/TechDotIO/swift-template), please feel free to come up with proposals to improve it.
 
