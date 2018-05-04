@@ -6,6 +6,8 @@ This Swift template lets you get started quickly with a simple working example u
 
 The source code is on [GitHub](https://github.com/TechDotIO/swift-template), please feel free to come up with proposals to improve it.
 
+![Watch the video](https://www.dropbox.com/s/qs6u7yx71i4yub0/64fenetres_-_moyenne.mov?raw=0)
+
 # Hands-on Demo
 
 @[Luke, how many stars there are in these galaxies?]({"stubs": ["Sources/swift_template.swift"], "command": "/bin/bash run.sh"})
