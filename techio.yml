@@ -1,7 +1,9 @@
 title: Swift Project
 plan:
-- title: Swift on Tech.io
-  statement: markdowns/welcome.md
+#- title: Swift on Tech.io
+#  statement: markdowns/welcome.md
+- title: 64 fenêtres
+  statement: markdowns/64fenetres_p1.md
 projects:
   first-project:
     root: /swift-template
