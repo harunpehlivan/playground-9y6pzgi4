@@ -13,6 +13,7 @@ class swift_templateTests: XCTestCase {
     func testExample1() {
         var fenetres = Array(repeating: "F", count: 64)
 
+       
         XCTAssertEqual(swift_template_fenetre.solve(fenetres:fenetres),["G", "O", "F", "G", "F", "F", "F", "O", "G", "F", "F", "F", "F", "F", "F", "G", "F", "O", "F", "F", "F", "F", "F", "F", "G", "F", "F", "F", "F", "F", "F", "O", "F", "F", "F", "G", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "G", "O", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "F", "G"])
         
     }
@@ -20,7 +21,6 @@ class swift_templateTests: XCTestCase {
         XCTAssertEqual(true,true)
         
         print("TECHIO> success \n")
-      
     }
     //Exercice 2
     func testExample2() {
