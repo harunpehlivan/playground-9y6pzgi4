@@ -11,7 +11,7 @@ class swift_templateTests: XCTestCase {
     }
      //Exercice 1
     func testExample1() {
-        var fenetres = Array(repeating: "F", count: 64)
+        let fenetres = Array(repeating: "F", count: 64)
 
        
        
@@ -25,14 +25,14 @@ class swift_templateTests: XCTestCase {
     }
     //Exercice 2
     func testExample2() {
-        var fenetres = Array(repeating: "F", count: 64)
+        let fenetres = Array(repeating: "F", count: 64)
  XCTAssertEqual(swift_template_fenetre2.getWinner(fenetres:fenetres),[18, 32])
     
     }
     //Exercice 3
     func testExample3() {
         //
-        var fenetres = Array(repeating: "F", count: 64)
+        let fenetres = Array(repeating: "F", count: 64)
        
         XCTAssertEqual(swift_template_fenetre3.getWinnerVersion2(fenetres:fenetres),[2, 8, 18, 32, 50])
         
