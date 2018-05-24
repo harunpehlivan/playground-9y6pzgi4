@@ -1,4 +1,5 @@
 swift package --version 
-swift build 1>/dev/null 2> /dev/null
-swift test --filter 0 2>/dev/null 
+echo "TECHIO> message DEB "
+swift build 1>/dev/null 
+swift test --filter 0  
 echo "TECHIO> ERROR "
