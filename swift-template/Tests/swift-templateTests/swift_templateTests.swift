@@ -18,7 +18,7 @@ class swift_templateTests: XCTestCase {
     }
      func testExample0() {
         XCTAssertEqual(true,true)
-        print("TECHIO> success")
+        print("TECHIO> success \n")
     }
     //Exercice 2
     func testExample2() {
