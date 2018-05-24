@@ -18,6 +18,7 @@ class swift_templateTests: XCTestCase {
     }
      func testExample0() {
         XCTAssertEqual(true,true)
+        print("TECHIO> success")
     }
     //Exercice 2
     func testExample2() {
