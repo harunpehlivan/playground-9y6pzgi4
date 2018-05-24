@@ -30,6 +30,7 @@ class swift_templateTests: XCTestCase {
     func testExample3() {
         //
         var fenetres = Array(repeating: "F", count: 64)
+       
         XCTAssertEqual(swift_template_fenetre3.getWinnerVersion2(fenetres:fenetres),[2, 8, 18, 32, 50])
         
     }
