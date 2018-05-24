@@ -1,6 +1,6 @@
 import XCTest
 @testable import swift_template
-import FileUtils
+
  
 class swift_templateTests: XCTestCase {
     func testExample() {
