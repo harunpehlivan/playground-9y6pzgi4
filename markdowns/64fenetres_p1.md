@@ -4,11 +4,22 @@
 
 
 # Exercice 1
+Ecrire un programme permettant d'afficher l'état des 64 fenêtres sous la forme d'un tableau de String.
+
 
 @[Exercice 1]({"stubs": ["Sources/swift_template_fenetre.swift"], "command": "/bin/bash run1.sh"})
+
 # Exercice 2
+Modifiez le programme de façon à renvoyer  les numéros des visiteurs qui ont gagné à ce jeu.  Le résultat est un tableau de Int.
+
 @[Exercice 1]({"stubs": ["Sources/swift_template_fenetre2.swift"], "command": "/bin/bash run2.sh"})
+
 # Exercice 3
+Modifiez le code précédent de façon à faire gagner avec une nouvelle règle: 
+
+On déclare gagant tous les visiteurs dont le numéros de brassard est égal aux numéros de fenêtres ouvertes (position 0).
+
+
 @[Exercice 1]({"stubs": ["Sources/swift_template_fenetre3.swift"], "command": "/bin/bash run3.sh"})
 
 # Références
