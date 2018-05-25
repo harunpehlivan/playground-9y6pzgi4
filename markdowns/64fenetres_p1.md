@@ -13,4 +13,4 @@
 
 # Références
 
-
+[![Livre de l'exercice](https://www.dropbox.com/s/v23wwcynw95wqhu/book1.jpg?dl=0)](https://www.amazon.fr/Lalgorithmique-pour-tous-dexpériences-programmation/dp/2340022878/ref=sr_1_1?ie=UTF8&qid=1527248313&sr=8-1&keywords=algorithme+scilab+python&dpID=41YM-ISro%252BL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
